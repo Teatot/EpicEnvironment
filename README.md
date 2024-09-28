@@ -10,7 +10,7 @@
 <body>
     <ul>
         <li>
-            <a href="https://teatot.github.io/EpicEnvironment/">https://csaa-robotics.github.io/ArmExample/</a>
+            <a href="https://teatot.github.io/EpicEnvironment/">https://teatot.github.io/EpicEnvironment/</a>
         </li>
     </ul>
 </body>
